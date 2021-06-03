@@ -1,5 +1,7 @@
 A Robust Flutter project use to record your daily Expense.
 
+If you like the project, show you apprecation by staring the repository.
+
 Feature:
 Add Trasansactions by date
 Delete Transactions
